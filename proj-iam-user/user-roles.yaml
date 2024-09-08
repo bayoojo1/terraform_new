@@ -1,0 +1,7 @@
+users:
+- username: bayoojo1
+  roles: [readonly, developer]
+- username: dotun1234
+  roles: [admin, network]
+- username: doyin1234
+  roles: [readonly]
